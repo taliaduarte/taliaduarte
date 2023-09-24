@@ -1,7 +1,7 @@
 ### Oii! eu sou a Talia Duarte 
 
 - 🔭 Sou estudante de Engenharia de Software
-- 💻 Aprendendo sobre Javascript
+- 💻 Aprendendo sobre Java
 
 ![taliaduarte GitHub stats](https://github-readme-stats.vercel.app/api?username=taliaduarte&show_icons=true&theme=dracula&count_private=true)
 
